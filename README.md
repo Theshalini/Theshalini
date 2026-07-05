@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d7377,14b8a6&height=180&section=header&text=Theshalini%20Vijayakumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=M.Sc+Computer+Science+%7C+CGPA+9.58;AI+%26+Deep+Learning+Engineer;Full+Stack+Web+Developer;International+Conference+Presenter+%F0%9F%8C%8F;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -19,6 +18,58 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 - 🌐 Developed a **live web system** deployed & actively used by faculty at my college
 - 👑 President · CS Association &nbsp;|&nbsp; Student Rep · Academic Council (2024–26)
 - 📫 **theshaliniv@gmail.com**
+
+---
+
+### 🎓 Education
+
+**Government College for Women (A), Bharathidasan University** 📘 M.Sc in Computer Science — CGPA: 9.58/10 📆 2024 – 2026
+**Government College for Women (A), Bharathidasan University** 📘 B.Sc in Computer Science — CGPA: 9.3/10 📆 2021 – 2024
+
+---
+
+### 💼 Experience
+
+**AI and Generative AI Intern** 🧠 Marcello Tech — Trichy, Tamil Nadu 📆 May 2025 – Jun 2025
+
+* 🤖 Explored Generative AI, prompt engineering, and LLMs while building AI-assisted software solutions.
+* 🩺 Developed **HealthTrack**, a React + Flask + SQLite app using the **Claude API** to auto-generate health assessments from blood test records.
+* 🔧 Implemented CRUD operations, REST APIs, input validation, and AI-powered health remarks with a rule-based fallback for reliability.
+* Tech Stack: `React` `Flask` `SQLite` `Claude API` `Python`
+
+**Software Development Intern (Remote)** 💻 Main Flow Services & Technologies | OctaNet Services Pvt. Ltd. 📆 Jun 2024 – Aug 2024
+
+* 🌐 Built responsive web interfaces with HTML, CSS, JavaScript, and React.js, improving usability across desktop and mobile.
+* 🔐 Implemented secure user authentication workflows and optimized UI components for better UX.
+* 🏧 Designed a **Python-based ATM Simulation System** supporting deposit, withdrawal, and balance enquiry.
+* Tech Stack: `HTML` `CSS` `JavaScript` `React.js` `Python`
+
+---
+
+### 💡 Projects
+
+🩻 **EyeSight AI: Deep Learning Based Retinal Disease Detection** 🛠️ Python, TensorFlow, Deep Learning 📆 Dec 2025 – Feb 2026
+
+* Built a deep learning–based retinal disease detection system using **TensorFlow** and **transfer learning**, applying image preprocessing and augmentation to classify fundus images with **97% accuracy**.
+
+✈️ **Airline Crew Scheduling System Using Machine Learning** 🛠️ Python, Genetic Algorithm, ML 📆 Jul 2025 – Sep 2025
+
+* Built an ML-based airline crew scheduling system implementing **Genetic Algorithm** optimization to generate efficient crew assignments while satisfying duty and availability constraints.
+
+📋 **E-Ward Register – Student Record Management System** 🛠️ HTML, CSS, JavaScript, PHP, MySQL 📆 Dec 2023 – Feb 2024
+
+* Developed an academic record management system with secure authentication and MySQL integration — **currently deployed and actively used by faculty** in college.
+
+---
+
+### 🏆 Certifications & Achievements
+
+* 🥇 **1st Prize** — National Paper Presentation, TechnothirsT'25 | A.V.C. College of Engineering
+* 🌏 International Conference Presenter — **CIMA-2026** | SRM IST & AIMST University, Malaysia
+* 📮 **Postman API Fundamentals Student Expert** | AI/ML for Geodata Analysis — IIRS, ISRO
+* 🌐 Elite Certification — Internet of Things & Computer Networks — **IIT Kharagpur**
+* 🏢 Deloitte Australia — Technology Job Simulation (Forage) | Agile Software Development, Chegg Inc.
+* 💻 Solved **120+ Data Structures & Algorithms** problems in C++ across coding platforms.
 
 ---
 
@@ -59,7 +110,7 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theshalini-vijayakumar)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=firefox&logoColor=white)](https://theshalini.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=firefox&logoColor=white)](https://theshalini.github.io/My_Portfolio/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theshaliniv@gmail.com)
 
