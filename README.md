@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d7377,14b8a6&height=180&section=header&text=Theshalini%20Vijayakumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d7377,14b8a6&height=180&section=header&text=Theshalini%20Vijayakumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=M.Sc+Computer+Science+%7C+CGPA+9.58;AI+%26+Deep+Learning+Engineer;Full+Stack+Web+Developer;International+Conference+Presenter+%F0%9F%8C%8F;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=M.Sc+Computer+Science+%7C+CGPA+9.58;Full+Stack+%26+AI%2FML+Developer;97%25+Accuracy+Deep+Learning+Model;International+Conference+Presenter+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,13 +9,13 @@
 
 ### 👩‍💻 About Me
 
-Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher with a strong foundation in AI/ML and full-stack development, actively looking for opportunities.
+Fresher Software Developer from Tamil Nadu, India, with a strong foundation in full-stack development and AI/ML — actively looking for opportunities to build reliable, real-world software.
 
 - 🎓 **M.Sc CS** @ Bharathidasan University · CGPA **9.58 / 10**
 - 🤖 Built an **AI retinal disease detector** achieving **97% accuracy** using TensorFlow
+- 🌐 Shipped a **web system** — deployed and actively used by faculty at my college
 - 🌏 Presented research at **CIMA-2026 International Conference**, AIMST University, Malaysia
 - 🏆 **1st Prize** — National Level Paper Presentation, TechnothirsT'25, A.V.C. College of Engineering
-- 🌐 Developed a **live web system** deployed & actively used by faculty at my college
 - 👑 President · CS Association &nbsp;|&nbsp; Student Rep · Academic Council (2024–26)
 - 📫 **theshaliniv@gmail.com**
 
@@ -23,42 +23,39 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 
 ### 🎓 Education
 
-**Government College for Women (A), Bharathidasan University** 📘 M.Sc in Computer Science — CGPA: 9.58/10 📆 2024 – 2026
-**Government College for Women (A), Bharathidasan University** 📘 B.Sc in Computer Science — CGPA: 9.3/10 📆 2021 – 2024
+**Government College for Women (A), Bharathidasan University**
+M.Sc in Computer Science — CGPA: 9.58/10 &nbsp;·&nbsp; 2024 – 2026
+B.Sc in Computer Science — CGPA: 9.3/10 &nbsp;·&nbsp; 2021 – 2024
 
 ---
 
 ### 💼 Experience
 
-**AI and Generative AI Intern** 🧠 Marcello Tech — Trichy, Tamil Nadu 📆 May 2025 – Jun 2025
+**AI and Generative AI Intern** · Marcello Tech, Trichy, Tamil Nadu &nbsp;📆 May 2025 – Jun 2025
 
-* 🤖 Explored Generative AI, prompt engineering, and LLMs while building AI-assisted software solutions.
-* 🩺 Developed **HealthTrack**, a React + Flask + SQLite app using the **Claude API** to auto-generate health assessments from blood test records.
-* 🔧 Implemented CRUD operations, REST APIs, input validation, and AI-powered health remarks with a rule-based fallback for reliability.
-* Tech Stack: `React` `Flask` `SQLite` `Claude API` `Python`
+* Built **HealthTrack**, a React + Flask + SQLite app using the **Claude API** to auto-generate health assessments from blood test records
+* Implemented CRUD operations, REST APIs, and AI-powered health remarks with a rule-based fallback for reliability
+* `React` `Flask` `SQLite` `Claude API` `Python`
 
-**Software Development Intern (Remote)** 💻 Main Flow Services & Technologies | OctaNet Services Pvt. Ltd. 📆 Jun 2024 – Aug 2024
+**Software Development Intern (Remote)** · Main Flow Services & Technologies | OctaNet Services Pvt. Ltd. &nbsp;📆 Jun 2024 – Aug 2024
 
-* 🌐 Built responsive web interfaces with HTML, CSS, JavaScript, and React.js, improving usability across desktop and mobile.
-* 🔐 Implemented secure user authentication workflows and optimized UI components for better UX.
-* 🏧 Designed a **Python-based ATM Simulation System** supporting deposit, withdrawal, and balance enquiry.
-* Tech Stack: `HTML` `CSS` `JavaScript` `React.js` `Python`
+* Built responsive web interfaces with HTML, CSS, JavaScript, and React.js across desktop and mobile
+* Implemented secure authentication workflows and optimized UI components for better UX
+* Designed a **Python-based ATM Simulation System** supporting deposits, withdrawals, and balance enquiry
+* `HTML` `CSS` `JavaScript` `React.js` `Python`
 
 ---
 
 ### 💡 Projects
 
-🩻 **EyeSight AI: Deep Learning Based Retinal Disease Detection** 🛠️ Python, TensorFlow, Deep Learning 📆 Dec 2025 – Feb 2026
+🩻 **EyeSight AI — Retinal Disease Detection** &nbsp;`Python` `TensorFlow` `Deep Learning` &nbsp;📆 Dec 2025 – Feb 2026
+Deep learning system using transfer learning and image augmentation to classify fundus images with **97% accuracy**.
 
-* Built a deep learning–based retinal disease detection system using **TensorFlow** and **transfer learning**, applying image preprocessing and augmentation to classify fundus images with **97% accuracy**.
+✈️ **Airline Crew Scheduling System** &nbsp;`Python` `Genetic Algorithm` `ML` &nbsp;📆 Jul 2025 – Sep 2025
+ML-based crew scheduling using Genetic Algorithm optimization to generate efficient assignments under duty and availability constraints.
 
-✈️ **Airline Crew Scheduling System Using Machine Learning** 🛠️ Python, Genetic Algorithm, ML 📆 Jul 2025 – Sep 2025
-
-* Built an ML-based airline crew scheduling system implementing **Genetic Algorithm** optimization to generate efficient crew assignments while satisfying duty and availability constraints.
-
-📋 **E-Ward Register – Student Record Management System** 🛠️ HTML, CSS, JavaScript, PHP, MySQL 📆 Dec 2023 – Feb 2024
-
-* Developed an academic record management system with secure authentication and MySQL integration — **currently deployed and actively used by faculty** in college.
+📋 **E-Ward Register — Student Record Management** &nbsp;`HTML` `PHP` `MySQL` &nbsp;📆 Dec 2023 – Feb 2024
+Academic record system with secure authentication — **currently deployed and actively used by faculty**.
 
 ---
 
@@ -69,7 +66,7 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 * 📮 **Postman API Fundamentals Student Expert** | AI/ML for Geodata Analysis — IIRS, ISRO
 * 🌐 Elite Certification — Internet of Things & Computer Networks — **IIT Kharagpur**
 * 🏢 Deloitte Australia — Technology Job Simulation (Forage) | Agile Software Development, Chegg Inc.
-* 💻 Solved **120+ Data Structures & Algorithms** problems in C++ across coding platforms.
+* 💻 Solved **120+ Data Structures & Algorithms** problems in C++ across coding platforms
 
 ---
 
@@ -77,7 +74,6 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -86,7 +82,6 @@ Hey! I'm a passionate **Software Developer** from Tamil Nadu, India — fresher 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
